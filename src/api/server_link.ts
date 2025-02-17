@@ -1,1 +1,1 @@
-export const api:string = "https://api.ztx.co.zw/"
+export const api:string = "https://api.swiftlink.co.zw/"

@@ -8,7 +8,7 @@ const Lander = () => {
             <div className=" d-flex flex-row flex-wrap align-items-center justify-content-center mb-2">
 
                 <div className="col-sm">
-                    <img src="https://ngratesc.sirv.com/ZTX/lander.png" className="img-fluid" alt="Mockup of purple pgaes" />
+                    <img src="https://ngratesc.sirv.com/swiftlink/lander.png" className="img-fluid" alt="Mockup of Swiftlank" />
                 </div>
                 <div className="col-sm text-center text-md-start">
 
@@ -16,19 +16,20 @@ const Lander = () => {
                         <div className="d-flex flex-row align-items-center justify-content-center justify-content-md-start">
                             <div className="rounded ">
                                 
-                            <img src="https://ngratesc.sirv.com/ZTX/logo.png" width={100} alt="ZTX logo"/>
+                            <img src="https://ngratesc.sirv.com/swiftlink/logo.png" width={100} alt="ZTX logo"/>
 
                             </div>
                             <div>
                                 <h1 className="display-3 mt-4 fw-bold p_text">
-                                    <span>ZTX</span>
+                                    <span>SwiftLink</span>
                                 </h1>
                             </div>
 
                         </div>
 
-                        <p className="fst-italic p_text">Find Businesses. Connect Instantly.</p>
-                        <p>ZTX makes it easy to discover and connect with local businesses, services, and professionals in your area. Whether you're looking for a trusted mechanic, a nearby restaurant, or a skilled contractor, ZTX helps you find what you need—fast and hassle-free. Start exploring today!</p>
+                        <p className="fst-italic p_text"> Find a Ride for Your Deliveries</p>
+                        <p>
+Need to move something? Swiftlink connects you with reliable delivery vehicles, whether it’s a small package or a large shipment. Fast, convenient, and hassle-free—get your goods where they need to be with just a few clicks. Start delivering today!</p>
                         <p className="p_text">Sign Up for Early Access</p>
                         <button className="btn p_btn me-2" onClick={() => {
                             sessionStorage.setItem("type", "individual")

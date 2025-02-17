@@ -66,7 +66,7 @@ const Authenticate = () => {
     return (
         <div className="vh-100 d-flex align-items-center justify-content-center">
             <div className="container text-center">
-                <img src={"https://ngratesc.sirv.com/ZTX/logo.png"} className="img-fluid" width={100} alt="logo" />
+                <img src={"https://ngratesc.sirv.com/swiftlink/logo.png"} className="img-fluid" width={100} alt="logo" />
                 <h3>Create An Account</h3>
                 {!otp_sent?
                 <form onSubmit={handle_submit}>
