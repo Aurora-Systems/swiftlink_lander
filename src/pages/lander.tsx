@@ -27,9 +27,10 @@ const Lander = () => {
 
                         </div>
 
-                        <p className="fst-italic p_text"> Find a Ride for Your Deliveries</p>
+                        <p className="fst-italic p_text">Move It · Track It · Delivered</p>
                         <p>
-Need to move something? Swiftlink connects you with reliable delivery vehicles, whether it’s a small package or a large shipment. Fast, convenient, and hassle-free—get your goods where they need to be with just a few clicks. Start delivering today!</p>
+                        Need something delivered? Whether it’s a small parcel or a large shipment, Swiftlink connects you with reliable delivery vehicles in just a few clicks. Track your package in real time from pickup to drop-off, so you always know where your goods are. Fast, secure, and hassle-free—Swiftlink gets it there, guaranteed.
+                        </p>
                         <p className="p_text">Sign Up for Early Access</p>
                         <button className="btn p_btn me-2" onClick={() => {
                             sessionStorage.setItem("type", "individual")
