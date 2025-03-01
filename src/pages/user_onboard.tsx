@@ -150,6 +150,18 @@ const UserOnboarding = () => {
                                 </select>
                             </div>
                         </div>
+                        <div className="row">
+                            <div className="col-sm"></div>
+                            <div className="col-sm mb-2">
+                                <span>Account Type - <small>you can change this later</small></span>
+                                <select className="form-control" required onChange={(e)=>set_user_data({...user_data, acc_type:e.target.value as "driver"|"customer"})}>	
+                                    <option></option>
+                                    <option value="driver">Driver</option>
+                                    <option value="customer">User</option>
+                                </select>
+                            </div>
+                            <div className="col-sm"></div>
+                        </div>
                         <div className="text-center mb-2">
                             By Onboarding You agree To Allow Us To Contact You About Our Launch
                         </div>

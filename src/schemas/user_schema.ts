@@ -7,6 +7,7 @@ export const UserSchema = z.object({
     contact_number:z.string(),
     email:z.string(),
     country:z.string(),
+    acc_type:z.enum(["driver","customer"]),
     user_id:z.string()  
 })
 
@@ -19,5 +20,6 @@ export const user_default:UserType = {
     contact_number:"",
     email:"",
     country:"",
+    acc_type:"driver",
     user_id:"" 
 }
