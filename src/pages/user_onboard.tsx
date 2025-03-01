@@ -157,7 +157,7 @@ const UserOnboarding = () => {
                                 <select className="form-control" required onChange={(e)=>set_user_data({...user_data, acc_type:e.target.value as "driver"|"customer"})}>	
                                     <option></option>
                                     <option value="driver">Driver</option>
-                                    <option value="customer">User</option>
+                                    <option value="customer">Customer</option>
                                 </select>
                             </div>
                             <div className="col-sm"></div>
