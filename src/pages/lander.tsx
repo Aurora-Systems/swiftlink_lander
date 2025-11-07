@@ -27,7 +27,7 @@ const Lander = () => {
 
                         <p className="fst-italic p_text">Move It · Track It · Delivered</p>
                         <p>
-                        Need something delivered? Whether it’s a small parcel or a large shipment, fastlinQ connects you with reliable delivery vehicles in just a few clicks. Track your package in real time from pickup to drop-off, so you always know where your goods are. Fast, secure, and hassle-free—fastlinQ gets it there, guaranteed.
+                        Need something delivered? Whether it’s a small parcel or a large shipment, fastlinQ connects you with reliable delivery vehicles in just a few clicks. Track your package in real time from pickup to drop off, so you always know where your goods are. Fast, secure, and hassle free. fastlinQ gets it there, guaranteed.
                         </p>
                         <p className="p_text">Sign Up for Early Access</p>
                         <button className="btn p_btn me-2" onClick={() => {
