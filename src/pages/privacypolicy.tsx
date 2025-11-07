@@ -1,10 +1,10 @@
 const PrivacyPolicy=()=>{
     return(
         <div className="container">
-            <h1>Privacy Policy for Purple Pages</h1> 
+            <h1>Privacy Policy for fastlinQ</h1> 
             <p>Effective Date: 14 January 2025</p>
              <h2>1. Introduction</h2> 
-             <p>Welcome to Purple Pages, a review platform for businesses where users can share their experiences with registered businesses. This Privacy Policy is designed to help you understand how we collect, use, and protect your personal information. Purple Pages is operated by IVAI INVESTMENTS PRIVATE LIMITED, registered in Zimbabwe.</p> 
+             <p>Welcome to fastlinQ, a review platform for businesses where users can share their experiences with registered businesses. This Privacy Policy is designed to help you understand how we collect, use, and protect your personal information. fastlinQ is operated by IVAI INVESTMENTS PRIVATE LIMITED, registered in Zimbabwe.</p> 
              <h2>2. Information We Collect</h2> 
              <p>We collect the following information from our users and businesses:</p> 
              <ul> 
@@ -32,7 +32,7 @@ const PrivacyPolicy=()=>{
                        <p>We take the security of your information seriously and implement appropriate measures to protect it from unauthorized access, alteration, or disclosure. These measures include encryption, access controls, and regular security assessments.</p>
                         <h2>6. Your Rights</h2>
                          <p>You have the right to access, correct, or delete your personal information. You can exercise these rights by contacting us at 
-                            <a href="mailto:info@purplepageszim.com">info@purplepageszim.com</a>. Additionally, you have the right to object to the processing of your personal data and to withdraw your consent at any time.</p>
+                            <a href="mailto:hello@fastlinQ.app">hello@fastlinQ.app"</a>. Additionally, you have the right to object to the processing of your personal data and to withdraw your consent at any time.</p>
                              <h2>7. Data Retention</h2> 
                              <p>We will retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
                               <h2>8. Cookies and Tracking Technologies</h2> 
@@ -40,7 +40,7 @@ const PrivacyPolicy=()=>{
                               <h2>9. Changes to This Privacy Policy</h2>
                                <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website. The effective date of the updated Privacy Policy will be indicated at the top of the policy.</p> 
                                <h2>10. Contact Us</h2> <p>If you have any questions about this Privacy Policy, please contact us at:</p> 
-                               <p> IVAI INVESTMENTS PRIVATE LIMITED<br/> 6th Floor, Construction House<br/> Harare, Zimbabwe<br/> Email: <a href="mailto:info@purplepageszim.com">info@purplepageszim.com</a> </p>
+                               <p> <br/> Email: <a href="mailto:hello@fastlinQ.app">hello@fastlinQ.app</a> </p>
         </div>
     )
 }
