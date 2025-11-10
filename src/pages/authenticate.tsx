@@ -3,7 +3,7 @@ import { Spinner } from "react-bootstrap"
 import supabase from "../init/init_supababse"
 import { toast, ToastContainer } from "react-toastify"
 import { useNavigate } from "react-router-dom"
-import { SignInWithPasswordCredentials, VerifyOtpParams } from "@supabase/supabase-js"
+import { VerifyOtpParams } from "@supabase/supabase-js"
 
 const Authenticate = () => {
     const nav = useNavigate()
