@@ -8,7 +8,7 @@ const Lander = () => {
             <div className=" d-flex flex-row flex-wrap align-items-center justify-content-center mb-2">
 
                 <div className="col-sm">
-                    <img src="https://ngratesc.sirv.com/swiftlink/lander.png" className="img-fluid" alt="Mockup of Swiftlank" />
+                    <img src="https://cdn.clipond.com/swiftlink/lander.png" className="img-fluid" alt="Mockup of Swiftlank" />
                 </div>
                 <div className="col-sm text-center text-md-start">
 
@@ -16,7 +16,7 @@ const Lander = () => {
                         <div className="d-flex flex-row align-items-center justify-content-center justify-content-md-start">
                             <div className="rounded ">
                                 
-                            <img src="https://ngratesc.sirv.com/swiftlink/4.png" width={200} alt="ZTX logo"/>
+                            <img src="https://cdn.clipond.com/swiftlink/4.png" width={200} alt="ZTX logo"/>
 
                             </div>
                             <div>
