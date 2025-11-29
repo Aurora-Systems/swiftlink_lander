@@ -68,7 +68,7 @@ const UserOnboarding = () => {
             <div className="container">
 
                 <div className="text-center">
-                    <img src="https://ngratesc.sirv.com/swiftlink/logo.png" className="img-fluid" width={"100"} alt="Purple Pages Logo" />
+                    <img src="https://cdn.clipond.com/swiftlink/logo.png" className="img-fluid" width={"100"} alt="Purple Pages Logo" />
                 </div>
                 <div className="text-center">
                     <h1 className="fw-bold">Lets Get You <u className="p_text">Ready!</u></h1>
